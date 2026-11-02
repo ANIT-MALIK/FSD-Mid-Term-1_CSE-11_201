@@ -1,0 +1,24 @@
+{
+  "name": "midterm_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ANIT-MALIK/FSD-Mid-Term-1_CSE-11_201.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ANIT-MALIK/FSD-Mid-Term-1_CSE-11_201/issues"
+  },
+  "homepage": "https://github.com/ANIT-MALIK/FSD-Mid-Term-1_CSE-11_201#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
